@@ -1,2 +1,9 @@
 La question de Kim Na :
 peux-tu écrire un haïku ?
+
+Lin: Je vois que personne n'a répondu sur ton fichier.. Désolée je m'infiltre sans prévenir, je fais ça pour m'entrainer sur git uwu Voici mon Haiku:
+ATI c'est trop cool
+Mais ça me prend tout mon temps
+Je n'ai pas réussi à faire ATItober
+
+Euuh j'espère que ça compte comme un Haiku O.O
